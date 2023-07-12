@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patron-spex
 - 👀 I’m interested in Programming and how other code
-- 🌱 I’m currently learning Kotlin 
+- 🌱 I’m currently learning Kotlin, Swift
 - 📫 How to reach me just write me on Instagram Patron_Manuu
 
 <!---
